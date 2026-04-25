@@ -1,4 +1,4 @@
-package smartbudget.dto;
+package smartbudget.dto.errorDto;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
