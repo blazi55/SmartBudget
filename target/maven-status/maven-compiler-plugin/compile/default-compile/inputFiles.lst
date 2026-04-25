@@ -1,1 +1,13 @@
-C:\Users\user\IdeaProjects\szyna_adapter\SmartBudget\src\main\java\SmartBudgetApplication.java
+C:\Users\user\IdeaProjects\szyna_adapter\SmartBudget\src\main\java\smartbudget\dto\ErrorResponse.java
+C:\Users\user\IdeaProjects\szyna_adapter\SmartBudget\src\main\java\smartbudget\enitity\BaseEntity.java
+C:\Users\user\IdeaProjects\szyna_adapter\SmartBudget\src\main\java\smartbudget\enitity\Budget.java
+C:\Users\user\IdeaProjects\szyna_adapter\SmartBudget\src\main\java\smartbudget\enitity\Category.java
+C:\Users\user\IdeaProjects\szyna_adapter\SmartBudget\src\main\java\smartbudget\enitity\Transaction.java
+C:\Users\user\IdeaProjects\szyna_adapter\SmartBudget\src\main\java\smartbudget\enitity\User.java
+C:\Users\user\IdeaProjects\szyna_adapter\SmartBudget\src\main\java\smartbudget\enums\BudgetPeriod.java
+C:\Users\user\IdeaProjects\szyna_adapter\SmartBudget\src\main\java\smartbudget\enums\CategoryType.java
+C:\Users\user\IdeaProjects\szyna_adapter\SmartBudget\src\main\java\smartbudget\enums\Currency.java
+C:\Users\user\IdeaProjects\szyna_adapter\SmartBudget\src\main\java\smartbudget\enums\TransactionType.java
+C:\Users\user\IdeaProjects\szyna_adapter\SmartBudget\src\main\java\smartbudget\exception\GlobalExceptionHandler.java
+C:\Users\user\IdeaProjects\szyna_adapter\SmartBudget\src\main\java\smartbudget\exception\NotFoundException.java
+C:\Users\user\IdeaProjects\szyna_adapter\SmartBudget\src\main\java\smartbudget\SmartBudgetApplication.java
