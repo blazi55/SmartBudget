@@ -119,6 +119,8 @@
     <orderEntry type="library" scope="RUNTIME" name="Maven: com.github.luben:zstd-jni:1.5.6-10" level="project" />
     <orderEntry type="library" scope="RUNTIME" name="Maven: at.yawk.lz4:lz4-java:1.10.1" level="project" />
     <orderEntry type="library" scope="RUNTIME" name="Maven: org.xerial.snappy:snappy-java:1.1.10.7" level="project" />
+    <orderEntry type="library" name="Maven: org.mapstruct:mapstruct:1.5.5.Final" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: org.mapstruct:mapstruct-processor:1.5.5.Final" level="project" />
     <orderEntry type="library" scope="RUNTIME" name="Maven: org.springframework.boot:spring-boot-devtools:4.0.6" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-autoconfigure:4.0.6" level="project" />
     <orderEntry type="library" scope="RUNTIME" name="Maven: com.h2database:h2:2.4.240" level="project" />
