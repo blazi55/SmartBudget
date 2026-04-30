@@ -6,6 +6,7 @@ import smartbudget.enums.CategoryType;
 @Data
 public class CategoryDto {
 
+	private Long id;
 	private String name;
 	private CategoryType type;
 	private String icon;
