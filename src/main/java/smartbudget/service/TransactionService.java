@@ -64,7 +64,7 @@ public class TransactionService {
 			return transactionMapper.toDtoList(transactionRepository.findByCategoryId(categoryId));
 		}
 
-		return transactionMapper.toDtoList(transactionRepository.findAll());
+		return transactionMapper.toDtoList(transactionRepository.findAllWithCategory());
 	}
 
 	public void delete(Long id) {

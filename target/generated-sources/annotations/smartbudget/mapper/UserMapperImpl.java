@@ -9,7 +9,7 @@ import smartbudget.enitity.User;
 
 @Generated(
     value = "org.mapstruct.ap.MappingProcessor",
-    date = "2026-04-30T18:21:05+0200",
+    date = "2026-04-30T19:54:03+0200",
     comments = "version: 1.5.5.Final, compiler: javac, environment: Java 21.0.10 (Microsoft)"
 )
 @Component
@@ -22,6 +22,9 @@ public class UserMapperImpl implements UserMapper {
         }
 
         UserDto userDto = new UserDto();
+
+        userDto.setEmail( user.getEmail() );
+        userDto.setCreatedAt( user.getCreatedAt() );
 
         return userDto;
     }
