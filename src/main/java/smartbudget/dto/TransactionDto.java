@@ -14,4 +14,5 @@ public class TransactionDto {
 	private LocalDate date;
 	private Currency currency;
 	private String description;
+	private CategoryDto categoryDto;
 }
