@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  margin: 0;
+  background: #0b1324;
+  color: #e2e8f0;
+  font-family: Inter, system-ui, sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+:root {
+  --bg: #0b1324;
+  --card: #111c3a;
+  --card-2: #1a2547;
+  --border: #1e293b;
+  --text-muted: #94a3b8;
+  --accent: #7c3aed;
+}
